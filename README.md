@@ -7,3 +7,6 @@ Day 1:
 
 Day 02:
 - Return product if product <= 1000, otherwise return sum
+
+Day 03
+- Print current number, previous number, and their sum
