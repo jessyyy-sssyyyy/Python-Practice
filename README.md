@@ -10,3 +10,6 @@ Day 02:
 
 Day 03
 - Print current number, previous number, and their sum
+
+Day 04
+- Display only those characters which are present at an even index number in the string "python daily practice"
