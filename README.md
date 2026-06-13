@@ -13,3 +13,6 @@ Day 03
 
 Day 04
 - Display only those characters which are present at an even index number in the string "python daily practice"
+
+Day 05
+- Remove characters from a string starting from index 0 up to n and return a new string
