@@ -8,11 +8,14 @@ Day 1:
 Day 02:
 - Return product if product <= 1000, otherwise return sum
 
-Day 03
+Day 03:
 - Print current number, previous number, and their sum
 
-Day 04
+Day 04:
 - Display only those characters which are present at an even index number in the string "python daily practice"
 
-Day 05
+Day 05:
 - Remove characters from a string starting from index 0 up to n and return a new string
+
+Day 06:
+- Swap the values of two variables without using a third temporary variable
