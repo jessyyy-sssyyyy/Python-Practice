@@ -20,5 +20,5 @@ Day 05:
 Day 06:
 - Swap the values of two variables without using a third temporary variable
 
-Day 07
+Day 07:
 - Calculate the factorial of a given number using a for loop
