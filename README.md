@@ -22,3 +22,6 @@ Day 06:
 
 Day 07:
 - Calculate the factorial of a given number using a for loop
+
+Day 08:
+- Add a new fruit to a list and remove the second fruit using list operations
