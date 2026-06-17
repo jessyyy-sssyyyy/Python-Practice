@@ -25,3 +25,6 @@ Day 07:
 
 Day 08:
 - Add a new fruit to a list and remove the second fruit using list operations
+
+Day 09:
+- Reverse a string using Python slicing
