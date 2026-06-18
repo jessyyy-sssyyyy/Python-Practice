@@ -28,3 +28,6 @@ Day 08:
 
 Day 09:
 - Reverse a string using Python slicing
+
+Day 10:
+- Count the total number of vowels present in a sentence
