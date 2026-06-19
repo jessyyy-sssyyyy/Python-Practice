@@ -32,5 +32,5 @@ Day 09:
 Day 10:
 - Count the total number of vowels present in a sentence
 
-Day 11
+Day 11:
 - Find the largest and smallest numbers in a list of integers
