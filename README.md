@@ -34,3 +34,6 @@ Day 10:
 
 Day 11:
 - Find the largest and smallest numbers in a list of integers
+
+Day 12:
+- Remove duplicate items from a list and create a list of unique elements
