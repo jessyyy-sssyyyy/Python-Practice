@@ -37,3 +37,6 @@ Day 11:
 
 Day 12:
 - Remove duplicate items from a list and create a list of unique elements
+
+Day 13:
+- Check whether the first and last numbers in a list are the same
