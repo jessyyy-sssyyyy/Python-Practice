@@ -40,3 +40,6 @@ Day 12:
 
 Day 13:
 - Check whether the first and last numbers in a list are the same
+
+Day 14:
+- Print numbers from a list that are divisible by 5
