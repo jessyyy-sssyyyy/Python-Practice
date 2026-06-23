@@ -43,3 +43,6 @@ Day 13:
 
 Day 14:
 - Print numbers from a list that are divisible by 5
+
+Day 15:
+- Count how many times the substring "Emma" appears in a string
