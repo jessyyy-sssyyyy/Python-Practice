@@ -46,3 +46,6 @@ Day 14:
 
 Day 15:
 - Count how many times the substring "Emma" appears in a string
+
+Day 16:
+- Print a number pattern using nested loops
