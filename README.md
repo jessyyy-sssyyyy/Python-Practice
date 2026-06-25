@@ -49,3 +49,7 @@ Day 15:
 
 Day 16:
 - Print a number pattern using nested loops
+
+Day 17:
+- Check whether a given number is a palindrome
+
