@@ -53,3 +53,6 @@ Day 16:
 Day 17:
 - Check whether a given number is a palindrome
 
+Day 18:
+- Create a new list containing odd numbers from the first list and even numbers from the second list
+
