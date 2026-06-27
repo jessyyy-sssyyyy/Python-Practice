@@ -56,3 +56,5 @@ Day 17:
 Day 18:
 - Create a new list containing odd numbers from the first list and even numbers from the second list
 
+Day 19:
+- Extract and print each digit of an integer in reverse order using modulo and floor division
