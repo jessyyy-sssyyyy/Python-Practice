@@ -58,3 +58,6 @@ Day 18:
 
 Day 19:
 - Extract and print each digit of an integer in reverse order using modulo and floor division
+
+Day 20:
+- Calculate income tax using tax brackets and conditional statements
