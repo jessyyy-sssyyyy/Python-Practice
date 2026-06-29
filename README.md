@@ -61,3 +61,6 @@ Day 19:
 
 Day 20:
 - Calculate income tax using tax brackets and conditional statements
+
+Day 21:
+- Print a multiplication table from 1 to 10 in a formatted grid using nested loops
