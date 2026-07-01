@@ -67,3 +67,6 @@ Day 21:
 
 Day 22:
 - Print a downward half-pyramid star pattern using nested loops
+
+Day 23:
+- Create a function to calculate the power of a number using repeated multiplication
