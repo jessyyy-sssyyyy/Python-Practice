@@ -70,3 +70,6 @@ Day 22:
 
 Day 23:
 - Create a function to calculate the power of a number using repeated multiplication
+
+Day 24:
+- Check whether a number is a palindrome using modulo and floor division
