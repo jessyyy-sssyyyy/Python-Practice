@@ -76,3 +76,53 @@ Day 24:
 
 Day 25:
 - Print the first 15 terms of the Fibonacci series using a loop
+
+Day 26:
+- Check whether a given year is a leap year using conditional statements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
