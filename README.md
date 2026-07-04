@@ -73,3 +73,6 @@ Day 23:
 
 Day 24:
 - Check whether a number is a palindrome using modulo and floor division
+
+Day 25:
+- Print the first 15 terms of the Fibonacci series using a loop
