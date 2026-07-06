@@ -83,7 +83,8 @@ Day 26:
 Day 27:
 - Merge two dictionaries into a single dictionary
 
-
+Day 28:
+- Find the common elements between two lists using sets
 
 
 
