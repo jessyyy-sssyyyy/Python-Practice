@@ -80,6 +80,8 @@ Day 25:
 Day 26:
 - Check whether a given year is a leap year using conditional statements
 
+Day 27:
+- Merge two dictionaries into a single dictionary
 
 
 
