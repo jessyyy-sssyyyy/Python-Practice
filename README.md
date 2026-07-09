@@ -86,7 +86,8 @@ Day 27:
 Day 28:
 - Find the common elements between two lists using sets
 
-
+Day 30:
+- Print each word in a list along with its character count
 
 
 
