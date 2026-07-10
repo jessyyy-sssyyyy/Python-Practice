@@ -89,7 +89,8 @@ Day 28:
 Day 30:
 - Print each word in a list along with its character count
 
-
+Day 31:
+- Count the occurrences of each word in a paragraph using a dictionary
 
 
 
